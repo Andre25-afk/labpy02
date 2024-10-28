@@ -7,4 +7,4 @@ Masukan/input Harga Reguler dan Harga VIP, Reguler = Rp50.000 dan VIP = Rp100.00
 
 
 ### Step 2 : Perintah Input untuk Tipe Tiket
-Selanjutnya, beri perintah input untuk menentukan tipe tiket apa yang akan diambil, (Reguler/VIP?) Member(Ya/Tidak?) :
+Selanjutnya, beri perintah input untuk menentukan tipe tiket apa yang akan diambil, (Reguler/VIP?) Member(Ya/Tidak?):
