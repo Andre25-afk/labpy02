@@ -23,8 +23,8 @@ Print output dari Total Harga Tiket yang sudah diambil :
 ![gambar1](ss/5.png)
 
 ### Step 6 : Test Code Program
-Uji coba code program dengan menginput Tiket VIP dan memiliki Kartu Member, maka total harganya adalah Rp40.000:
-
+Uji coba code program dengan menginput Tiket VIP dan memiliki Kartu Member, maka total harganya adalah Rp80.000:
+![gambar1](ss/10.png)
 
 ## FLOWCHART PEMESANAN TIKET BIOSKOP
 
@@ -54,11 +54,11 @@ Step selanjutnya print output Total Harga yang harus dibayar, lalu menuju titik 
 
 ### Step 1 : Perintah Input angka1 dan angka2
 Masukan perintah Input angka1 dan angka2 dengan menggunakan Integer :
-
+![gambar1](ss/6.png)
 
 ### Step 2 : Perintah Input Operator 
 Selanjutnya beri perintah Input untuk menentukan Operator (Pertambahan +, Pengurangan -, Perkalian *, Pembagian /) :
-
+![gambar1](ss/7.png)
 
 ### Step 3 : Seleksi Operator
 Kemudian lakukan seleksi Operator :
@@ -68,11 +68,15 @@ Jika operator Perkalian maka angka1 * angka2
 Jika operator Pembagian ada dua hal 
 	Jika angka2 != 0 maka angka1 / angka2
 	Jika angka2 = 0 maka eror
-
+![gambar1](ss/8.png)
 
 ### Step 4 : Print Output
 Langkah terakhir buat output untuk menampilkan hasil dari perhitungan :
+![gambar1](ss/9.png)
 
+### Step 5 : Uji Coba
+Uji coba code program kalkulator sederhana dengan menginput angka1 = 70, dan angka2 = 65 dengan operator pengurangan :
+![gambar1](ss/11.png)
 
 
 ## FLOWCHART KALKULATOR SEDERHANA
