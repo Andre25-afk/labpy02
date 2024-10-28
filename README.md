@@ -30,23 +30,23 @@ Uji coba code program dengan menginput Tiket VIP dan memiliki Kartu Member, maka
 
 ### Step 1 : Start
 Buat titik start untuk awalan untuk memulai sesuatu dengan bentuk terminator :
-
+![gambar1](ss/12.png)
 
 ### Step 2 : Input 
 Lalu buat Input untuk Tipe Tiket yang akan diambil, dan Input untuk Member :
-
+![gambar1](ss/13.png)
 
 ### step 3 : Decision Tiket Reguler dan VIP
 Selanjutnya lakukan seleksi, jika reguler YA maka akan mengarah ke harga tiket Rp50.000, jika TIDAK maka akan mengarah ke Tiket VIP yang berharga Rp100.000 :
-
+![gambar1](ss/14.png)
 
 ### Step 4 : Decision Tiket Member
 Setelah itu, dari step sebelumnya Input member menuju Decision Tiket Member, Tiket Reguler dan Tiket VIP mengikuti jalur menuju Decision Tiket Member juga untuk seleksi apakah memiliki Kartu Member atau Tidak, jika YA maka akan dapat diskon 20%, jika tidak menuju step selanjutnya :
- 
+![gambar1](ss/15.png)
 
 ### Step 5 : End
 Step selanjutnya print output Total Harga yang harus dibayar, lalu menuju titik berhenti :
-
+![gambar1](ss/16.png)
 
 
 
@@ -83,33 +83,33 @@ Uji coba code program kalkulator sederhana dengan menginput angka1 = 70, dan ang
 
 ### Step 1 : Start
 Buat titik awal mulai dengan terminator :
-
+![gambar1](ss/17.png)
 
 ### Step 2 : Input angka1 dan angka2
 Langkah selanjutnya buat input untuk angka1 dan angka2 :
-
+![gambar1](ss/18.png)
 
 ### Step 3 : Input Operator
 Kemudian buat input Operator untuk menentukan Operator yang dipakai :
-
+![gambar1](ss/19.png)
 
 ### Step 4 : Decision Operator
 Lakukan lah seleksi Operator yang dipakai (Penjumlahan +, Pengurangan -, Perkalian *, Pembagian /) :
-
+![gambar1](ss/20.png)
 
 ### Step 5 : Decision Pembagian
 Kembali ke alur pembagian, lakukan decision pembagian jika angka2 = 0 (Ya/Tidak)? :
 Ya = Eror
 Tidak = Lakukan Pembagian 
-
+![gambar1](ss/20.png)
 
 ### Step 6 : Output
 Print output Hasil dari semua Operator yang diinputkan :
-
+![gambar1](ss/21.png)
 
 ### Step 7 : End
 Buat titik akhir berhenti untuk menghentikan proses :
-
+![gambar1](ss/22.png)
 
 
 ## KESIMPULAN
