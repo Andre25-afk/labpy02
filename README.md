@@ -101,15 +101,15 @@ Lakukan lah seleksi Operator yang dipakai (Penjumlahan +, Pengurangan -, Perkali
 Kembali ke alur pembagian, lakukan decision pembagian jika angka2 = 0 (Ya/Tidak)? :
 Ya = Eror
 Tidak = Lakukan Pembagian 
-![gambar1](ss/20.png)
+![gambar1](ss/24.png)
 
 ### Step 6 : Output
 Print output Hasil dari semua Operator yang diinputkan :
-![gambar1](ss/21.png)
+![gambar1](ss/25.png)
 
 ### Step 7 : End
 Buat titik akhir berhenti untuk menghentikan proses :
-![gambar1](ss/22.png)
+![gambar1](ss/26.png)
 
 
 ## KESIMPULAN
