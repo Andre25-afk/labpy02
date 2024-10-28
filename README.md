@@ -95,7 +95,7 @@ Kemudian buat input Operator untuk menentukan Operator yang dipakai :
 
 ### Step 4 : Decision Operator
 Lakukan lah seleksi Operator yang dipakai (Penjumlahan +, Pengurangan -, Perkalian *, Pembagian /) :
-![gambar1](ss/20.png)
+![gambar1](ss/23.png)
 
 ### Step 5 : Decision Pembagian
 Kembali ke alur pembagian, lakukan decision pembagian jika angka2 = 0 (Ya/Tidak)? :
@@ -113,6 +113,4 @@ Buat titik akhir berhenti untuk menghentikan proses :
 
 
 ## KESIMPULAN
-Dari Laporan Praktikum 2 diatas, saya dapat mengambil kesimpulan penggunaan if, elfi dan else sangat berguna untuk menentukan seleksi. Decision ini digunakan untuk mencari hasil dari 2 kasus yang sudah ditampilkan, penentuan Tiket Bioskop Reguler dan VIP jika memiliki Kartu Member maka akan mendapatkan diskon 20%, maka dari itu penggunaan Struktur Kondisi sangat penting didalam Code Pemrograman Python atau pun Flowchart.
-
-Pada kasus 2 yang diminta untuk membuat kalkulator sederhana, dalam kasus ini pada jalur Pembagian diberikan decision untuk menentukan angka2 != 0, jika angka2 = 0 maka akan eror ini dikarenakan pembagian tidak boleh NOL (0).
+Dari Laporan Praktikum 2 diatas, saya Andreas Ferdinand Prapat dapat mengambil kesimpulan penggunaan if, elfi dan else sangat berguna untuk menentukan Kondisi didalam Code Program Python. Decision dari Flowchart ini digunakan untuk mencari hasil dari 2 kasus yang sudah ditampilkan, penentuan Tiket Bioskop Reguler dan VIP jika memiliki Kartu Member maka akan mendapatkan diskon 20%, dengan adanya kondisi menyatakan seleksi dapat mengulang dan mendapatkan Hasilnya. Maka dari itu penggunaan Struktur Kondisi sangat penting didalam Code Pemrograman Python atau pun Flowchart. Pada kasus 2 yang diminta untuk membuat kalkulator sederhana, dalam kasus ini pada jalur Pembagian diberikan decision untuk menentukan angka2 != 0, jika angka2 = 0 maka akan eror ini dikarenakan pembagian tidak boleh NOL (0).
