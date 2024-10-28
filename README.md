@@ -3,33 +3,27 @@
 ## CODE PROGRAM PEMESANAN TIKET BIOSKOP
 
 ### Step 1 : Input Harga Tiket
-Masukan/input Harga Reguler dan Harga VIP, Reguler = Rp50.000 dan VIP = Rp100.000
-:
-
+Masukan/input Harga Reguler dan Harga VIP, Reguler = Rp50.000 dan VIP = Rp100.000 :
+![gambar1](ss/1.png)
 
 ### Step 2 : Perintah Input untuk Tipe Tiket
 Selanjutnya, beri perintah input untuk menentukan tipe tiket apa yang akan diambil, (Reguler/VIP?) Member(Ya/Tidak?) :
+![gambar1](ss/2.png)
 
+### Step 3 : Seleksi Tipe Tiket dan Kartu Member untuk diskon
+Beri seleksi untuk menentukan Tipe Tiket yang diambil, Reguler atau VIP tarik inputan dari Step 2, lalu input diskon 20% jika memiliki Kartu Member :
+![gambar1](ss/3.png)
 
-### Step 3 : Seleksi Tipe Tiket
-Beri seleksi untuk menentukan Tipe Tiket yang diambil, Reguler atau VIP tarik inputan dari Step 2 :
-
-
-### Step 4 : Seleksi Kartu Member untuk diskon
-Lalu, input diskon 20% jika memiliki Kartu Member :
-
-
-### Step 5 : Total harga 
+### Step 4 : Total harga 
 Masukan Total Harga Tiket yang diambil, tarik inputan dari step 3 untuk menemukan totalnya :
+![gambar1](ss/4.png)
 
-
-### Step 6 : Output 
+### Step 5 : Output 
 Print output dari Total Harga Tiket yang sudah diambil :
+![gambar1](ss/5.png)
 
-
-### Step 7 : Test Code Program
-Uji coba code program dengan menginput Tiket Reguler dan memiliki Kartu Member, maka total harganya adalah Rp40.000:
-
+### Step 6 : Test Code Program
+Uji coba code program dengan menginput Tiket VIP dan memiliki Kartu Member, maka total harganya adalah Rp40.000:
 
 
 ## FLOWCHART PEMESANAN TIKET BIOSKOP
